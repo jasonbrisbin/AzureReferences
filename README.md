@@ -7,3 +7,8 @@ A collection of resources which are useful in the design and deployment of Azure
 - [AlwaysOn](https://github.com/Azure/AlwaysOn) - Provide a reference architecture for building applications that scale to multiple geographies.  It is a prescriptive architecture for designing and deploying infrastructure to support georedundancy.
 - [Microsoft Patterns and Practices](https://github.com/mspnp) - This repository contains documentation and reference code for implementing many of the solutions from the [Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/) site.
 - [AKS PCI/DSS Reference Architecture](https://github.com/mspnp/aks-baseline-regulated) - Provides a reference architecture and details alignment to specific PCI/DSS controls and how requirements are satisfied.
+
+
+## Tools
+- [PSRule](https://microsoft.github.io/PSRule/v1/) - This tool provides the ability to perform tests on infrastructure code prior to deployment as well as validation of resources post deployment.
+- [ARM TTK](https://github.com/Azure/arm-ttk) - The ARM Test Toolkit is a powershell based testing framework to validate infrasucture code prior to deployment.
