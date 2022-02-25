@@ -2,4 +2,4 @@
 A collection of resources which are useful in the design and deployment of Azure environments.
 
 
-- (AzOps)[https://github.com/Azure/AzOps]
+- [AzOps](https://github.com/Azure/AzOps)
