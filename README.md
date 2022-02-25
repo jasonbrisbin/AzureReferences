@@ -12,3 +12,7 @@ A collection of resources which are useful in the design and deployment of Azure
 ## Tools
 - [PSRule](https://microsoft.github.io/PSRule/v1/) - This tool provides the ability to perform tests on infrastructure code prior to deployment as well as validation of resources post deployment.
 - [ARM TTK](https://github.com/Azure/arm-ttk) - The ARM Test Toolkit is a powershell based testing framework to validate infrasucture code prior to deployment.
+
+
+## Management
+- [Azure ARC For Kubernetes](https://docs.microsoft.com/en-us/azure/azure-arc/kubernetes/overview) - This is a really interesting hybrid approach to Kubernetes by enabling a an Azure Resource to represent the cluster.  The result is being able to use Azure management/visability tools along with GitOps in the same manner as AKS in the cloud.
